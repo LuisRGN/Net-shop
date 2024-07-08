@@ -8,4 +8,4 @@ const OcultNavbar = ({ children }: IChildren) => {
     return <div className={pathname === "/" ? "hidden" : ""}>{children}</div>
 }
 
-export default OcultNavbar
+export default OcultNavbar;

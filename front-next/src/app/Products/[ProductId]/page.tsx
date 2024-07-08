@@ -94,4 +94,4 @@ const ProductId = ({ params }: { params: { ProductId: string } }) => {
   )
 }
 
-export default ProductId
+export default ProductId;

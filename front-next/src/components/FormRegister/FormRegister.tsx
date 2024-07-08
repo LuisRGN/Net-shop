@@ -100,4 +100,4 @@ const FormRegister: React.FC = () => {
   )
 }
 
-export default FormRegister
+export default FormRegister;

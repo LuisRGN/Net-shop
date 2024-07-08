@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { Carousel, CarouselProps } from "flowbite-react";
 
 const CarruselSlider: React.FC<CarouselProps> = () => {

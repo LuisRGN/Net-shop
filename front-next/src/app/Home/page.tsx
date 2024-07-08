@@ -82,4 +82,4 @@ const HomeApp: React.FC = () => {
   )
 }
 
-export default HomeApp
+export default HomeApp;

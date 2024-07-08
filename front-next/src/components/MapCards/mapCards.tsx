@@ -14,4 +14,4 @@ const ProductCards: React.FC<{ products: IProduct[] }> = ({ products }) => {
   )
 }
 
-export default ProductCards
+export default ProductCards;

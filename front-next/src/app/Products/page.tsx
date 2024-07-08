@@ -10,4 +10,4 @@ const Product: React.FC<{ products: IProduct[] }> = ({ products }) => {
   )
 }
 
-export default Product
+export default Product;

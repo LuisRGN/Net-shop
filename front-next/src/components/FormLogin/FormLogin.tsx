@@ -83,4 +83,4 @@ const FormLogin: React.FC = () => {
   )
 }
 
-export default FormLogin
+export default FormLogin;
